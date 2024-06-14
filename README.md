@@ -1,1 +1,7 @@
-The app features time tracking, workout history saving, and progress monitoring to help you stay on top of your fitness goals.
+# fitness
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.

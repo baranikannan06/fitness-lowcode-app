@@ -21,3 +21,7 @@ ShapeShift is designed to help users stay committed to their fitness goals by pr
 2.Backend: Firebase (Real-time database, Authentication)
 
 3.Languages: Auto-generated Dart code from FlutterFlow
+
+**Run Locally**
+
+https://github.com/baranikannan06/fitness-lowcode-app.git

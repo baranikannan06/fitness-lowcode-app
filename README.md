@@ -22,6 +22,6 @@ ShapeShift is designed to help users stay committed to their fitness goals by pr
 
 3.Languages: Auto-generated Dart code from FlutterFlow
 
-**Run Locally**
+**Live Demo**
 
-https://github.com/baranikannan06/fitness-lowcode-app.git
+https://fitness-dc9t2t.flutterflow.app/

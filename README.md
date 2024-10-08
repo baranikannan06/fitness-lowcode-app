@@ -1,6 +1,7 @@
 **ShapeShift-Fitness Life Tracker Application**
 
 **Overview**
+
 ShapeShift is designed to help users stay committed to their fitness goals by providing features such as time tracking, workout history saving, and progress monitoring. Built with FlutterFlow, a low-code development platform, and powered by Firebase for real-time backend services, ShapeShift ensures a seamless and intuitive user experience.
 
 **Features**
